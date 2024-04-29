@@ -1,1 +1,0 @@
-[29-Apr-2024 14:26:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /Users/franco/Documents/Projects/qrcode/app/core/Database.php on line 24
